@@ -1,3 +1,6 @@
+# Solution
+[C](https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Maior%20Valor/Maior%20Valor%20(C%20Solution).c)
+[Go](https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Maior%20Valor/Maior%20(Go%20Solution).go)
 # Enunciado da Questão
   Nesta tarefa, dados três números inteiros N, M e S você deve escrever um programa para determinar o maior número inteiro I tal que
   O preço da diária do hotel é menor para quem chegar mais cedo, e vai aumentando a cada dia. Mais precisamente, a promoção funciona assim:
@@ -14,8 +17,3 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, que dev
   <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Maior%20Valor/Example_1.png" height="300"></br>
   <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Maior%20Valor/Example_2.png" height="150"></br>
 </div>
-# Solution
-
-[C](https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Maior%20Valor/Maior%20Valor%20(C%20Solution).c)
-
-[Go](https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Maior%20Valor/Maior%20(Go%20Solution).go)
