@@ -11,7 +11,7 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, que dev
 * 1 ≤ N ≤ M ≤ 10 000
 * 1 ≤ S ≤ 36
 <div align="center">
-  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Maior%20Valor/Example_1.png" height="100"></br>
+  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Maior%20Valor/Example_1.png" height="150"></br>
   <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Maior%20Valor/Example_2.png" height="150"></br>
 </div>
 
