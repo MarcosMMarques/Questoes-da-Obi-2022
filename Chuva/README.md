@@ -1,3 +1,6 @@
+# Solution
+* [C](https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Chuva(C%20Solution).c)
+* [Go](https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Chuva(Go%20Solution).go)
 # Enunciado da Questão
   Eventos climáticos extremos como chuvas descomunais estão cada vez mais frequentes e intensos em todo o mundo.
   O Centro Nacional de Monitoramento da Nlogônia tem medidores de quantidade de chuva dia-a-dia espalhados por todo o reino. Cada medição é um número inteiro, indicando a quantidade de chuva, em milímetros, que caiu na Nlogônia num determinado dia. Como o sistema existe há vários anos, a lista de medições é muito grande.
