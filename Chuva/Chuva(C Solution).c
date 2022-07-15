@@ -1,31 +1,26 @@
 #include<stdio.h>
 int main(){
-	//6
-	//2
-	//0 2 0 1 0 1
-	/*Sao 6 os intervalos com soma igual a 2: [2], [0,2], [2,0], [0,2,0], [1,0,1]
-	e [0,1,0,1*/
-	int nm=0,sr=0,i=0,s=0,j=0,res=0;
-	scanf("%d%d",&nm,&sr);
-	int v[nm];
-	for(i=0;i<nm;i++){
-		scanf("%d",&v[i]);
+	int number_measureaments,expected_sum,i,sum=0,j,answer=0;
+	scanf("%d%d",&number_measureaments,&expected_sum);
+	int vector[number_measureaments];
+	for(i=0;i<number_measureaments;i++){
+		scanf("%d",&vector[i]);
 	}
-	for(i=0;i<nm;i++){
-		s=v[i];
-		for(j=i+1;j<nm;j++){
-			s+=v[j];
-			if(s==sr){
-				res++;
+	for(i=0;i<number_measureaments;i++){
+		sum=vector[i];
+		for(j=i+1;j<number_measureaments;j++){
+			sum+=vector[j];
+			if(sum==expected_sum){
+				answer++;
 			}
-			if(s>sr){
+			if(sum>expected_sum){
 				break;
 			}
 		}
-		if(v[i]==sr){
-			res++;
+		if(vector[i]==expected_sum){
+			answer++;
 		}
 	}
-	printf("%d",res);
+	printf("%d",answer);
 	return 0;
 }
