@@ -17,9 +17,9 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, que dev
 * 0 ≤ S ≤ 1 000 000
 * 0 ≤ Xi ≤ 10, para 1 ≤ i ≤ N
 
-<div align="center".
-  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_1.png" height="365">
-  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_1.1.png" height="365">
-  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_2.png" height="365">
-  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_3.png" height="365">   
+<div align="center">
+  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_1.png" height="100">
+  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_1.1.png" height="100">
+  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_2.png" height="100">
+  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_3.png" height="100">   
 </div>
