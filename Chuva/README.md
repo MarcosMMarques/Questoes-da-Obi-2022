@@ -19,7 +19,7 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, que dev
 
 <div align="center">
   <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_1.png" height="100"></br>
-  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_1.1.png" height="50"></br>
-  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_2.png" height="120"></br>
-  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_3.png" height="120">   
+  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_1.1.png" height="40"></br>
+  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_2.png" height="140"></br>
+  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Chuva/Example_3.png" height="140">   
 </div>
