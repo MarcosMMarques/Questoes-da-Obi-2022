@@ -1,3 +1,6 @@
+# Solution
+* [C](https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Hotel/hotel.c)
+* [Go](https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Hotel/Hotel%20(Go%20Solution).go)
 # Enunciado da Questão
   O hotel da Colônia de Férias dos Professores está com uma promoção para as férias de julho. A promoção é válida para quem chegar a partir do dia 1 de julho e sair no dia 1 de agosto.
   O preço da diária do hotel é menor para quem chegar mais cedo, e vai aumentando a cada dia. Mais precisamente, a promoção funciona assim:
