@@ -19,8 +19,8 @@ Seu programa deve produzir uma única linha, contendo um único inteiro, que dev
 
 <div align="center">
   <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Hotel/Example_1.png" height="100"></br>
-  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Hotel/Example_1.1.png" height="45"></br>
-  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Hotel/Example_2.png" height="128"></br>
-  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Hotel/Example_3.png" height="128">   
+  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Hotel/Example_1.1.png" height="35"></br>
+  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Hotel/Example_2.png" height="150"></br>
+  <img src="https://github.com/MarcosMMarques/Questoes-da-Obi-2022/blob/main/Hotel/Example_3.png" height="150">   
 </div>
 
